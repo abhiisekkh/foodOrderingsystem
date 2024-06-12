@@ -1777,7 +1777,7 @@ if (ordercode >=1 && ordercode<=8 )
 		if  (pay < total)
 			{
 			cout << "\n" << l;
-			cout <<"                        KULANG ANG BAYAD MO -_- ";
+			cout <<"                        INAVLID -_- ";
 			cout << "\n" << l;
 			}
 			
